@@ -1,0 +1,1 @@
+window.$jqdn = jQuery.noConflict();
